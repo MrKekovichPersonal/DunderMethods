@@ -2,6 +2,7 @@
 __new__ is called when object is being created.
 """
 
+
 class MyClass:
     prop1 = "'I'm property'"  # class property
     prop2 = 'hey!'  # class property
